@@ -1,6 +1,6 @@
 //============================================================================
 //
-//  MiSTer hardware abstraction module
+//  MiSTer hardware abstraction module 1234
 //  (c)2017-2020 Alexey Melnikov
 //
 //  This program is free software; you can redistribute it and/or modify it
